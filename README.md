@@ -1,2 +1,3 @@
-# OfficialYOLOv7Course
-Learn YOLOv7 Object Detection - Tutorials
+# Run YOLOv7 in the Cloud
+
+Watch the Full Tutorial Here https://youtu.be/bkWeWmvYFvY
